@@ -8,6 +8,7 @@ The **XAI Framework API** is a Flask-based machine learning model deployment tha
 - **Get model explanations** using LIME (`/explain/lime`)
 
 This API is hosted on **Swedish Science Cloud (SSC)** and can be accessed via HTTP.
+https://cloud.snic.se/index.html
 
 ### API Base URL
 ```
