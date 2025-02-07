@@ -15,7 +15,8 @@ https://cloud.snic.se/index.html
 http://130.238.27.150
 ```
 The API listens on **port 80**, so no need to specify the port number explicitly.
-(If it doesn't work, please specify **port 8000**)
+
+If it doesn't work, please specify **port 8000**
 ```
 http://130.238.27.150:8000
 ```
