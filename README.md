@@ -82,6 +82,8 @@ The API listens on **port 80**, so no need to specify the port number explicitly
 - Hosted on **Swedish Science Cloud (SSC)**
 - Running with **Gunicorn** and **Nginx** for stability
 - API is accessible globally via HTTP without specifying a port
+- **Machine Learning**: Scikit-learn, SHAP, LIME
+- **Maintainer**: Bokai Liu
 
 ## 🛠 Setup Instructions (For Developers)
 
@@ -98,6 +100,14 @@ gunicorn -w 4 -b 0.0.0.0:8000 app:app
 Make sure your server's firewall and security group allow access on port **80**.
 
 ---
+
+## Contributing
+If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
+
+For any questions, contact bokai.liu@umu.se
+
+
+
 
 ## 📝 License
 
